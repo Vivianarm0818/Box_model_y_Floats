@@ -1,0 +1,47 @@
+div.chico {
+    border-top:  17px #bbbbbb solid;
+    border-right: 13px #bbbbbb solid;
+    border-bottom: 13px #bbbbbb solid;
+    border-left: 13px #bbbbbb solid;
+    background: #a8e3fa;
+    width: 1129px;
+    height: 153px;
+}
+div.grande {
+    border-right: 13px #bbbbbb solid;
+    border-bottom: 13px #bbbbbb solid;
+    border-left: 13px #bbbbbb solid;
+    background: #a8e3fa;
+    width: 1129px;
+    height: 240px;
+}
+.container {
+    width: 1129px;
+    height: 240px;
+    border-right: 13px #bbbbbb solid;
+    border-bottom: 13px #bbbbbb solid;
+    border-left: 13px #bbbbbb solid;
+    background: #a8e3fa;
+}
+.margin-derecho {
+    width: 50%;
+    height: 100%;
+    margin-right: 13px;
+    border-right: 13px solid #bbbbbb;
+}
+div.grande {
+    border-right: 13px #bbbbbb solid;
+    border-bottom: 13px #bbbbbb solid;
+    border-left: 13px #bbbbbb solid;
+    background: #a8e3fa;
+    width: 1129px;
+    height: 240px;
+}
+.container {
+    width: 1129px;
+    height: 240px;
+    border-right: 13px #bbbbbb solid;
+    border-bottom: 13px #bbbbbb solid;
+    border-left: 13px #bbbbbb solid;
+    background: #a8e3fa;
+}
